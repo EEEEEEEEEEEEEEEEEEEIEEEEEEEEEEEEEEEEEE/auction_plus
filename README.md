@@ -7,4 +7,4 @@
 * 8.0
 
 ## 界面预览
-![Image text](https://raw.githubusercontent.com/Yeatol/WOW-AuctionPlus/master/AuctionPlus.jpg)
+![Image text](https://raw.githubusercontent.com/Yeatol/AuctionPlus/master/AuctionPlus.jpg)
