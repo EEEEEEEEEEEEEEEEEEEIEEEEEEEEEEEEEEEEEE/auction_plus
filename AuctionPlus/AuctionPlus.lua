@@ -25,7 +25,7 @@ Event("AUCTION_HOUSE_SHOW", function()
         BuyoutCheckButtonText:SetText("一键购买");
         hooksecurefunc("BrowseButton_OnClick", function(button)
             if BuyoutCheckButton:GetChecked() then
-                if AuctionFrame.buyoutPrice > 10000 then
+                if AuctionFrame.buyoutPrice > 1000000 then
                     StaticPopup_Show("BUYOUT_AUCTION");
                 else
                     PlaceAuctionBid(AuctionFrame.type, GetSelectedAuctionItem(AuctionFrame.type), AuctionFrame.buyoutPrice)
