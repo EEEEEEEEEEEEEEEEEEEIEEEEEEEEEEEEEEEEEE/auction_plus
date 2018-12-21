@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80100
 ## Author: 苏彩彩
 ## Title: AuctionPlus
 ## Notes-zhCN: 拍卖行一键购买
